@@ -1,2 +1,19 @@
-# Survey-Form-Project
-A responsive and accessible survey form built using HTML, CSS, and vanilla JavaScript, designed as part of the FreeCodeCamp Web Development curriculum. The form collects user feedback with various input types like text, radio buttons, dropdowns, and checkboxes. It includes basic validation and clean UI styling, optimized for desktop and mobile devices.
+# 📝 Survey Form
+
+A clean and responsive survey form built using HTML and CSS as part of the freeCodeCamp Responsive Web Design certification. This project demonstrates form handling, input types, labels, and basic layout techniques.
+
+## 🔧 Built With
+
+- HTML5
+- CSS3
+
+## 📱 Features
+
+- Responsive layout
+- Semantic HTML structure
+- Accessible labels and placeholders
+- Modern styling
+
+## 🎯 Purpose
+
+Part of the freeCodeCamp certification to practice form-building fundamentals and responsive design.
